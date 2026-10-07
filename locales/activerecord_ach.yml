@@ -1,0 +1,6 @@
+ach:
+  activerecord:
+      errors:
+        template:
+          header: "crwdns530614:0%{model}crwdnd530614:0%{count}crwdne530614:0"
+          body: "crwdns530615:0crwdne530615:0"
